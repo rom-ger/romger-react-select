@@ -1,6 +1,6 @@
 {
   "name": "@romger/react-select",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "@romger/react-select",
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
     "README.md"
   ],
   "dependencies": {
-    "@romger/react-checkbox": "1.0.0",
+    "@romger/react-checkbox": "1.0.1",
     "@romger/react-flex-layout": "1.0.0",
     "@romger/react-input": "1.0.2",
     "@types/react": "16.9.5",
